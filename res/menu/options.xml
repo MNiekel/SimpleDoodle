@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/pick"
+        android:title="@string/pick"/>
+    <item
+        android:id="@+id/background"
+        android:title="@string/background"/>
+    <item
+        android:id="@+id/stroke"
+        android:title="@string/stroke"/>
+    <item
+        android:id="@+id/save"
+        android:title="@string/save"/>
+    <item
+        android:id="@+id/load"
+        android:title="@string/load"/>
+    <item
+        android:id="@+id/clear"
+        android:title="@string/clear"/>
+            
+</menu>

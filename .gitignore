@@ -1,0 +1,17 @@
+local.properties
+bin/
+gen/
+.metadata
+.DS_Store
+
+*.swp
+*.class
+*.dex
+*.apk
+*.ap_
+
+/gen
+/bin
+/.DS_Store
+/.classpath
+/.project

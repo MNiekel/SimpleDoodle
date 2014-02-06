@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Doodle</string>
+    <string name="color_confirm">Select</string>
+    <string name="color_cancel">Cancel</string>
+    <string name="clear">Clear screen</string>
+    <string name="save">Save doodle</string>
+    <string name="load">Load doodle</string>
+    <string name="pick">Set pencil color</string>
+    <string name="set_color">Set color</string>
+    <string name="red">red:</string>
+    <string name="green">green:</string>
+    <string name="blue">blue:</string>
+    <string name="stroke">Set pencil size</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="define">Define color</string>
+    <string name="small">small</string>
+    <string name="large">large</string>
+    <string name="background">Set background color</string>
+    <string name="new_color">New color</string>
+    <string name="current_color">Current color</string>
+</resources>
